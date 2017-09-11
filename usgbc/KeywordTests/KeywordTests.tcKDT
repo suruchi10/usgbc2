@@ -16,6 +16,9 @@
 		<child name="community_registration_webcomparision" key="{DB61E671-AB24-45BA-A75B-E04CFD392ACF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
 			<data path="community_registration_webcomparision.tcKDTest" />
 		</child>
+		<child name="Test1" key="{18FBDE91-5BB1-4B4B-AA6F-1778E2B20A5C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="Test1.tcKDTest" />
+		</child>
 	</children>
 	<folders />
 </Root>
