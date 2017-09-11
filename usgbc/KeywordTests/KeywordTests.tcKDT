@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="12.0">
+	<children>
+		<child name="community_registration_brokenlink" key="{26CB556A-617B-4ABE-825C-A515CF4C947C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="community_registration_brokenlink.tcKDTest" />
+		</child>
+		<child name="community_registration1" key="{43A5E898-659A-4D6A-A3BA-4F30A3E95FCC}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="community_registration1.tcKDTest" />
+		</child>
+		<child name="community_registration" key="{F01AEC87-F3EE-46D2-94AF-26446C565A7C}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="community_registration.tcKDTest" />
+		</child>
+		<child name="signin" key="{D1E94834-3344-455E-8E81-22EA6821D8F3}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="signin.tcKDTest" />
+		</child>
+		<child name="community_registration_webcomparision" key="{DB61E671-AB24-45BA-A75B-E04CFD392ACF}" type="Keyword Test" typeId="{B9D9273E-7266-43E0-BF02-97F168593604}" pluginName="Keyword Testing">
+			<data path="community_registration_webcomparision.tcKDTest" />
+		</child>
+	</children>
+	<folders />
+</Root>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{B205BEB2-E15D-463E-8F95-9AF50A3E8F46}" version="12.0">
+	<children>
+		<child name="WebAccessibility1" key="{23F0F183-EBF9-469D-8A49-0933AA6D35C2}" type="Web Accessibility" typeId="{1F64F68B-7489-4F63-BAEF-EF1587C69DEC}" pluginName="Web Checkpoints">
+			<data path="WebAccessibility1.tcWat" />
+		</child>
+		<child name="WebAccessibility2" key="{DC24C024-DF25-458A-9ABC-C7FC522F22AC}" type="Web Accessibility" typeId="{1F64F68B-7489-4F63-BAEF-EF1587C69DEC}" pluginName="Web Checkpoints">
+			<data path="WebAccessibility2.tcWat" />
+		</child>
+		<child name="WebAccessibility3" key="{105FE44F-2346-4B22-889A-25EB5ED0B82F}" type="Web Accessibility" typeId="{1F64F68B-7489-4F63-BAEF-EF1587C69DEC}" pluginName="Web Checkpoints">
+			<data path="WebAccessibility3.tcWat" />
+		</child>
+		<child name="WebAccessibility4" key="{87C817A7-7364-4EAB-910F-0F882CD9A4FE}" type="Web Accessibility" typeId="{1F64F68B-7489-4F63-BAEF-EF1587C69DEC}" pluginName="Web Checkpoints">
+			<data path="WebAccessibility4.tcWat" />
+		</child>
+		<child name="WebAccessibility5" key="{F1A90F4D-566C-4818-ABF5-8A69E95CE40B}" type="Web Accessibility" typeId="{1F64F68B-7489-4F63-BAEF-EF1587C69DEC}" pluginName="Web Checkpoints">
+			<data path="WebAccessibility5.tcWat" />
+		</child>
+		<child name="WebComparison1" key="{3CE2F73D-F878-4ECC-9484-3FA967147744}" type="Web Comparison" typeId="{744C6E7C-6CC3-4731-B0E1-4A58319782AC}" pluginName="Web Checkpoints">
+			<data path="WebComparison1.tcWcm" />
+		</child>
+		<child name="WebComparison2" key="{047F6C27-992E-4674-A7B8-25EFA5974BB9}" type="Web Comparison" typeId="{744C6E7C-6CC3-4731-B0E1-4A58319782AC}" pluginName="Web Checkpoints">
+			<data path="WebComparison2.tcWcm" />
+		</child>
+		<child name="WebComparison3" key="{5E3D0E64-4FFF-4AD3-AFDD-AE2598627BDF}" type="Web Comparison" typeId="{744C6E7C-6CC3-4731-B0E1-4A58319782AC}" pluginName="Web Checkpoints">
+			<data path="WebComparison3.tcWcm" />
+		</child>
+	</children>
+	<folders />
+</Root>
